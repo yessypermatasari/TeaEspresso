@@ -1,3 +1,4 @@
+package com.example.android.teatime;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,10 +12,6 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
 
-import com.example.android.teatime.IdlingResource.SimpleIdlingResource;
-import com.example.android.teatime.OrderActivity;
-import com.example.android.teatime.R;
-import com.example.android.teatime.TeaMenuAdapter;
 import com.example.android.teatime.model.Tea;
 
 import java.util.ArrayList;
